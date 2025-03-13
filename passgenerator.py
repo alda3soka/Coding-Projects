@@ -7,7 +7,7 @@ numbers = list('0123456789')
 symbols = list('!@#$%^&*()_+-')
 
 
-length = int(input("Enter the length of the password: "))
+length = int(input("Enter the desired length of your password: "))
 
 
 while length < 8:
